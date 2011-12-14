@@ -1,5 +1,5 @@
 % File: erlang-practice.erl 
-% Goal: spot erlang characterists
+% Goal: spot erlang characteristics
 
 
 %arbitrary precision
