@@ -31,7 +31,7 @@ List = [4, 2, {foo, bar}].
 
 %extracting head/tail from lists
 [H|T] = [1, 2, 3].
-H
+H.
 1
 T.
 [2,3]
